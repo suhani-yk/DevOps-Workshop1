@@ -44,7 +44,7 @@ harnessing the power of these two incredibly powerful and versatile tools.
   - Run multiple containers with Docker Compose.
 
 ## Schedule
-
+##ji
 | Time          | Topics                                                                   |
 |---------------|--------------------------------------------------------------------------|
 | 09:00 - 09:30 | [`Introduction to Git`](docs/git/introduction_to_git.md)                 |
